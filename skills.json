@@ -15,14 +15,8 @@
         "name": "Redux",
         "icon": "https://img.icons8.com/color/48/000000/redux.png"
     },
-    {
-        "name": "Firebase",
-        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
-    },
-    {
-        "name": "Android",
-        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
-    },
+   
+    
     {
         "name": "MaterialUI",
         "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
@@ -59,10 +53,7 @@
         "name": "Java",
         "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
     },
-    {
-        "name": "Kotlin",
-        "icon": "https://img.icons8.com/color/48/000000/kotlin.png"
-    },
+    
     {
         "name": "PHP",
         "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
